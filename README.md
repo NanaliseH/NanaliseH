@@ -2,35 +2,55 @@
 
 🎓 Mathematics Major with a Data Science Concentration at Austin Peay State University
 
-📈 GPA: 3.9
+📈 Current GPA: 3.9
 
 🎓 Expected Graduation: Fall 2026 (One Semester Remaining)
 
-📊 Interested in:
+## About Me
+
+I enjoy solving problems with data, statistics, machine learning, and emerging AI technologies. My projects range from predictive modeling and natural language processing to reinforcement learning, mobile app development, and AI-powered tools.
+
+## Areas of Interest
 
 * Data Science
 * Machine Learning
 * Artificial Intelligence
 * Cybersecurity
+* Cloud Computing
 * AI Automation
 
-💻 Technical Skills:
+## Technical Skills
+
+### Programming Languages
 
 * Python
 * R
 * SQL
 * SAS
+* Swift
 
-🛠 Tools & Technologies:
+### Data Science & Analytics
+
+* Statistical Modeling
+* Regression Analysis
+* Natural Language Processing (NLP)
+* Reinforcement Learning
+* Data Visualization
+* Machine Learning
+
+### Tools & Technologies
 
 * GitHub
+* AWS (Learning)
+* Power BI
+* Xcode
+* Spyder
 * ChatGPT
 * Claude
 * Gemini
 * Canva
-* Spyder
 
-📂 Featured Projects:
+## Featured Projects
 
 * Wage Regression Analysis
 * Aviation Safety Analysis
@@ -38,17 +58,20 @@
 * Reinforcement Learning Maze
 * Pokémon Chatbot
 * Personality Prediction Chatbot
+* BJJ Training Journal (SwiftUI)
 
-🌱 Currently Learning:
+## Currently Learning
 
 * AWS Cloud Computing
-* Cybersecurity
-* AI Automation
+* Cybersecurity Fundamentals
+* AI Automation & Agents
+* Cloud Security
 
-📫 Contact:
+## Contact
 
-* Email: [nanahowe22@outlook.com](mailto:nanahowe22@outlook.com)
-* LinkedIn: linkedin.com/in/nanalise-howe
+📧 Email: [nanahowe22@outlook.com](mailto:nanahowe22@outlook.com)
+
+💼 LinkedIn: linkedin.com/in/nanalise-howe
 
 ---
 
