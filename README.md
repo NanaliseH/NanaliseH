@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Nanalise Howe 👋
 
-<!--
-**NanaliseH/NanaliseH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics Major with a Data Science Concentration at Austin Peay State University
 
-Here are some ideas to get you started:
+📈 GPA: 3.9
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Expected Graduation: Fall 2026 (One Semester Remaining)
+
+📊 Interested in:
+
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Cybersecurity
+* AI Automation
+
+💻 Technical Skills:
+
+* Python
+* R
+* SQL
+* SAS
+
+🛠 Tools & Technologies:
+
+* GitHub
+* ChatGPT
+* Claude
+* Gemini
+* Canva
+* Spyder
+
+📂 Featured Projects:
+
+* Wage Regression Analysis
+* Aviation Safety Analysis
+* Sentiment Analysis
+* Reinforcement Learning Maze
+* Pokémon Chatbot
+* Personality Prediction Chatbot
+
+🌱 Currently Learning:
+
+* AWS Cloud Computing
+* Cybersecurity
+* AI Automation
+
+📫 Contact:
+
+* Email: [nanahowe22@outlook.com](mailto:nanahowe22@outlook.com)
+* LinkedIn: linkedin.com/in/nanalise-howe
+
+---
+
+*"Curious learner, problem solver, and builder—using data, AI, and technology to create meaningful solutions."*
