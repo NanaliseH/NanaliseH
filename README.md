@@ -69,10 +69,12 @@ I enjoy solving problems with data, statistics, machine learning, and emerging A
 
 ## Contact
 
-📧 Email: [nanahowe22@outlook.com](mailto:nanahowe22@outlook.com)
+📧 Email: nanahowe22@outlook.com
 
-💼 LinkedIn: linkedin.com/in/nanalise-howe
+💼 LinkedIn: [linkedin.com/in/nanalise-howe](https://www.linkedin.com/in/nanalise-howe)
 
----
+🐙 GitHub: [github.com/NanaliseH](https://github.com/NanaliseH)
+
+-------
 
 *"Curious learner, problem solver, and builder—using data, AI, and technology to create meaningful solutions."*
