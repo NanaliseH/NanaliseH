@@ -71,9 +71,13 @@ I enjoy solving problems with data, statistics, machine learning, and emerging A
 
 📧 Email: nanahowe22@outlook.com
 
+🌐 Portfolio: https://nanaliseh.github.io/portfolio-website/
+
 💼 LinkedIn: [linkedin.com/in/nanalise-howe](https://www.linkedin.com/in/nanalise-howe)
 
 🐙 GitHub: [github.com/NanaliseH](https://github.com/NanaliseH)
+
+
 
 -------
 
