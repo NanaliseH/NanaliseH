@@ -1,84 +1,29 @@
-# Hi, I'm Nanalise Howe 👋
+# Nanalise Howe
 
-🎓 Mathematics Major with a Data Science Concentration at Austin Peay State University
+**Mathematics | Statistics | Data Analytics & Data Science**
 
-📈 Current GPA: 3.9
+I'm a Mathematics undergraduate concentrating in Data Science at Austin Peay State University, graduating in December 2026. I enjoy applying mathematics, statistical reasoning, and programming to understand data, evaluate relationships, and build predictive models.
 
-🎓 Expected Graduation: Fall 2026 (One Semester Remaining)
-
-## About Me
-
-I enjoy solving problems with data, statistics, machine learning, and emerging AI technologies. My projects range from predictive modeling and natural language processing to reinforcement learning, mobile app development, and AI-powered tools.
-
-## Areas of Interest
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Cybersecurity
-* Cloud Computing
-* AI Automation
+My primary interests are **financial analytics, statistical modeling, and data-driven decision-making**. I'm particularly interested in using quantitative methods to study financial risk, lending behavior, and economic outcomes.
 
 ## Technical Skills
 
-### Programming Languages
+- **Programming & analysis:** Python, R, SQL, SAS
+- **Statistical methods:** Regression analysis, exploratory data analysis, statistical inference, predictive modeling
+- **Data science:** Machine learning, data cleaning, feature analysis, data visualization
+- **Tools:** pandas, scikit-learn, Power BI, Git, GitHub
 
-* Python
-* R
-* SQL
-* SAS
-* Swift
+## Selected Projects
 
-### Data Science & Analytics
+- **[Wage Regression Analysis](https://github.com/NanaliseH/wage-regression-analysis)** — Exploring relationships between wages and explanatory variables using regression.
+- **[Aircraft Crash Analysis](https://github.com/NanaliseH/aircraft-crash-analysis)** — Exploratory analysis and visualization of aviation safety data.
+- **[Sentiment Analysis](https://github.com/NanaliseH/Sentiment-Analysis)** — Applying natural language processing and classification to text data.
 
-* Statistical Modeling
-* Regression Analysis
-* Natural Language Processing (NLP)
-* Reinforcement Learning
-* Data Visualization
-* Machine Learning
+## Current Academic Focus
 
-### Tools & Technologies
+My senior seminar research examines **mortgage prepayment behavior** using Freddie Mac loan-level data, with a focus on time-to-event analysis and factors associated with early loan payoff.
 
-* GitHub
-* AWS (Learning)
-* Power BI
-* Xcode
-* Spyder
-* ChatGPT
-* Claude
-* Gemini
-* Canva
+## Connect
 
-## Featured Projects
-
-* Wage Regression Analysis
-* Aviation Safety Analysis
-* Sentiment Analysis
-* Reinforcement Learning Maze
-* Pokémon Chatbot
-* Personality Prediction Chatbot
-* BJJ Training Journal (SwiftUI)
-
-## Currently Learning
-
-* AWS Cloud Computing
-* Cybersecurity Fundamentals
-* AI Automation & Agents
-* Cloud Security
-
-## Contact
-
-📧 Email: nanahowe22@outlook.com
-
-🌐 Portfolio: https://nanaliseh.github.io/portfolio-website/
-
-💼 LinkedIn: [linkedin.com/in/nanalise-howe](https://www.linkedin.com/in/nanalise-howe)
-
-🐙 GitHub: [github.com/NanaliseH](https://github.com/NanaliseH)
-
-
-
--------
-
-*"Curious learner, problem solver, and builder—using data, AI, and technology to create meaningful solutions."*
+- [Portfolio](https://nanaliseh.github.io/portfolio-website/)
+- [LinkedIn](https://www.linkedin.com/in/nanalise-howe)
